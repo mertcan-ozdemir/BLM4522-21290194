@@ -1,5 +1,14 @@
-# BLM4522-21290194
+# BLM4522-21290194-Mertcan Özdemir
 
+iki farklı dokümantasyon var birisi vize için birisi final için. Videoları hem Youtube yükledim hem de dosya olarak buraya. Aşağıda izleme linkleri mevcut.
+Veri tabanımın ismi MovieLensDB. İlk başta oluşturduğum table'lar olarak şunlar vardı:
+
+dbo.kullanici – Kullanıcı bilgilerini tutar.
+dbo.rating – Kullanıcıların filmlere verdiği puanlar.
+
+Örnek veri seti olarak movielens'in 100K ratingli veri setini kullandım. Yukarıda ml-100k.zip olarak bulunabilir.
+
+----------VIDEOLAR-----------------
 
 veritabanı güvenliği ve erişimi 
 https://youtu.be/B4G72MCuPuM
